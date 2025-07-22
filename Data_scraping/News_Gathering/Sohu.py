@@ -1,5 +1,3 @@
-# 鎼滅嫄
-
 import csv
 from selenium import webdriver
 from selenium.webdriver import ChromeOptions
