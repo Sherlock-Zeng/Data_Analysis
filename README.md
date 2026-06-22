@@ -1,2 +1,2 @@
 # Data_Analysis
-This is a collection of codes about data scraping and data analysis. This provides some insights for data acquisition in quantitative finance.
+This is a collection of codes about data analysis and modeling. These may provide some insights for quantitative finance.
